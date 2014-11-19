@@ -1,4 +1,4 @@
-<%@taglib prefix="sql" uri="http://java.sun.com/jsp/jstl/sql"%>
+
 <%-- 
     Document   : index
     Created on : 07-nov-2014, 13:01:36
